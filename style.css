@@ -1,9 +1,18 @@
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Shadows Into Light', cursive;
     margin: 0;
 }
 h1{
     font-size: 50px;
+}
+h2{
+    font-family: 'Xanh Mono', monospace;
+}
+h3{
+    font-family: 'Xanh Mono', monospace;
+}
+p{
+    font-family: 'Asap', sans-serif;
 }
 .welcome{
     background-image: url(images/top-bg.png);
@@ -36,6 +45,9 @@ section{
     color: white;
     font-weight: 700;
     text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 2px;
+    font-weight: bold;
 }
 .dream{
     background-image: url(images/dream-bg.png);
